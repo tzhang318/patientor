@@ -1,0 +1,7 @@
+.entries-header {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.MuiTextField-root {
+  flex-direction: row;
+}
